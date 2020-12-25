@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="aslanc" size="10.000000 6.835938" />
+    <ImageTarget name="kedi" size="10.000000 14.212766" />
+    <ImageTarget name="geyik" size="10.000000 6.165254" />
+    <ImageTarget name="kelebek" size="10.000000 5.131579" />
+    <ImageTarget name="at" size="10.000000 5.625000" />
+    <ImageTarget name="aslan" size="10.000000 7.328244" />
+    <ImageTarget name="kopek2" size="10.000000 7.552941" />
+  </Tracking>
+</QCARConfig>
